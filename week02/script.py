@@ -8,7 +8,7 @@ timeout = 2
 
 # InfluxDB v2 설정
 influxdb_url = "http://localhost:8086"
-influxdb_token = "S9ug4HPsjgF8xHr4AMfes8ZUnrTHyUCS9LXeWnHtho7F8Pl1O0mYjlF36oiargcwdsiwrOgYiocMxA-0yMzX3Q=="
+influxdb_token = ""
 influxdb_org = "test"
 influxdb_bucket = "dust"
 
